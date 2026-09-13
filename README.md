@@ -15,5 +15,5 @@ The electronic texts in this repository of the 1979 United States edition of the
 
 #### Copyright Information
 
-* 1979 BCP - According to the Episcopal Church, [title II, canon 3](adopted by the General Convention), section 6(e)(1), revisions of the Book of Common Prayer adopted by the General Convention have their copyright relinquished.
+* 1979 BCP - According to the Episcopal Church Canons of the General Convention, [title II, canon 3](https://extranet.generalconvention.org/staff/files/download/31954#3_of_the_standard_book_of_common_prayer), section 6(e)(1), revisions of the Book of Common Prayer adopted by the General Convention have their copyright relinquished.
 * 1662 BCP - Due to its age, the historical text of The Book of Common Prayer (1662) is in the public domain in the United States and throughout much of the world. In the United Kingdom, it remains  subject to Crown rights, which are administered by Cambridge University Press.
