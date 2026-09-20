@@ -3,9 +3,15 @@
 
 This project is dedicated to providing free, accurate, and usable text versions of Anglican prayer books that are in the public domain. Our aim is to make these historic liturgical texts easier to search, study, reproduce, and incorporate into new digital projects.
 
+While PDF and web versions of these prayer books are easily found, "clean text" and machine-parseable representations of these books are not generally available. This project seeks to change that.
+
 ### Sources
 * 1979 BCP - [Standing Commission on Liturgy and Music](https://www.episcopalcommonprayer.org/existing-liturgies1.html)
+* 1929 BCP - [Society of Archbishop Justus](http://justus.anglican.org/resources/bcp/Scotland/Scotland.htm)
 * 1662 BCP - [Society of Archbishop Justus](http://justus.anglican.org/resources/bcp/1662/1662.html)
+
+### Other Free Prayer Book Resources
+* [bcponline/BCP-Source](https://github.com/bcponline/BCP-Source) - source text/code of bcponline.org
 
 ### License and Use Information
 
@@ -16,4 +22,5 @@ The electronic texts in this repository of the 1979 United States edition of the
 #### Copyright Information
 
 * 1979 BCP - According to the Episcopal Church Canons of the General Convention, [title II, canon 3](https://extranet.generalconvention.org/staff/files/download/31954#3_of_the_standard_book_of_common_prayer), section 6(e)(1), revisions of the Book of Common Prayer adopted by the General Convention have their copyright relinquished.
+* 1929 BCP - This text is in the public domain in the United States, but it likely remains under copyright in the United Kingdom. The maintainer of this repository does not have any additional information about its copyright status.
 * 1662 BCP - Due to its age, the historical text of The Book of Common Prayer (1662) is in the public domain in the United States and throughout much of the world. In the United Kingdom, it remains  subject to Crown rights, which are administered by Cambridge University Press.
